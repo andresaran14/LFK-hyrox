@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
-<rect width="1000" height="500" rx="70" fill="#fff"/>
-<text x="500" y="205" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="130" font-weight="700" letter-spacing="14" fill="#111">HYROX</text>
-<text x="500" y="285" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" letter-spacing="14" fill="#3a3a3c">TRACKER</text>
-<line x1="250" y1="345" x2="500" y2="345" stroke="#0A84FF" stroke-width="8"/>
-<line x1="500" y1="345" x2="750" y2="345" stroke="#FF9F0A" stroke-width="8"/>
-<text x="500" y="415" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="12" fill="#0A84FF">LFK</text>
-</svg>
